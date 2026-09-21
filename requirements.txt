@@ -1,0 +1,11 @@
+torch==2.11.0
+transformers==5.16.1
+datasets==4.8.5
+peft
+accelerate
+evaluate
+rouge_score
+sentencepiece
+gradio==6.27.0
+numpy==2.2.6
+pandas==2.2.3
