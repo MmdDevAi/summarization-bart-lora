@@ -9,7 +9,7 @@
 
 ![Demo](https://img.shields.io/badge/🤗-Live%20Demo-blue)
 
-](https://huggingface.co/spaces/[[SPACE]])
+](https://huggingface.co/spaces/Msoldier-ai/dialogue-summarizer-bart-lora)
 
 Fine-tuning facebook/bart-large with LoRA to summarize chat-style conversations (SAMSum), evaluated with ROUGE and deployed as a live Gradio demo.
 
